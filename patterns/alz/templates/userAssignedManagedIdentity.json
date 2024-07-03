@@ -49,8 +49,8 @@
                         }
                     ]
                 }
-            },
-            "resourceGroup": "[parameters('uamiResourceGroupName')]"
+            }
+          //  "resourceGroup": "[parameters('uamiResourceGroupName')]"
         }
     ],
     "outputs": {}
