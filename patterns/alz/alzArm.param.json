@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "contoso"
+      "value": "ui"
     },
     "platformManagementGroup": {
-      "value": "contoso-platform"
+      "value": "ui-platform"
     },
     "IdentityManagementGroup": {
-      "value": "contoso-identity"
+      "value": "ui-identity"
     },
     "managementManagementGroup": {
-      "value": "contoso-management"
+      "value": "ui-management"
     },
     "connectivityManagementGroup": {
-      "value": "contoso-connectivity"
+      "value": "ui-connectivity"
     },
     "LandingZoneManagementGroup": {
-      "value": "contoso-landingzones"
+      "value": "ui-landingzones"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
@@ -60,7 +60,7 @@
       "value": "rg-amba-monitoring-001"
     },
     "ALZMonitorResourceGroupLocation": {
-      "value": "eastus"
+      "value": "AustraliaEast"
     },
     "ALZMonitorResourceGroupTags": {
       "value": {
